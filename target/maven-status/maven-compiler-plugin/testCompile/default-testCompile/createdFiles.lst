@@ -1,0 +1,6 @@
+stepDefinations\AccountsPageSteps.class
+stepDefinations\LoginPageSteps.class
+testrunner\SerenityRunner.class
+testrunner\TestNGParellelRunner.class
+testrunner\JUnitRunner.class
+stepDefinations\ApplicationHooks.class
